@@ -1,1 +1,1 @@
-This is a new Feature branch
+Hotfix : Corrected an issue in file1.txt
