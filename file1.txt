@@ -1,1 +1,1 @@
-Hotfix : correcte an Issue in file1.txt
+ Hotfix: Corrected an issue in the file1.txt
